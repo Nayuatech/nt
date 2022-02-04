@@ -380,6 +380,6 @@
 
    ],
 "message":"What's new \nAdded 3-free server",
-   "title":"Do you want to update ?" ,
-   "version": 2
+   "title":"Found new update,do you to update ?" ,
+   "version": 1
 }
